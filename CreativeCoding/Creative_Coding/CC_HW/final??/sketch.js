@@ -1,3 +1,9 @@
+//Kanye west clip--I Am A God(2013)
+//grasshopper model by Chaitanya Krishnan  via SketchFab
+//cricket clipart via Clipart Panda
+//Cricket SFX by Ev-Dawg via Free Sound
+
+
 var on = false;
 var on2 = false;
 var on3 = false;
